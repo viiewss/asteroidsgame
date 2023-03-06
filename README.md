@@ -1,1 +1,1 @@
-# asteroidsgame
+# OG asteroids game
